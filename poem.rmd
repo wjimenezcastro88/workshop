@@ -18,6 +18,11 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+O hushed October morning mild,  
+Thy leaves have ripened to the fall;  
+Tomorrow’s wind, if it be wild,  
+Should waste them all.  
+The crows above the forest call;  
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
