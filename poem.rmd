@@ -15,6 +15,11 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+ "Just the place for a Snark!" the   Bellman cried,  
+   As he landed his crew with care;  
+Supporting each man on the top of the   tide  
+   By a finger entwined in his hair.  
+"Just the place for a Snark! I have said it twice: 
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
